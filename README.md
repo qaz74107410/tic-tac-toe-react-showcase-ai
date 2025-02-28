@@ -1,8 +1,24 @@
 # Tic Tac Toe React Game
 
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.1-646CFF.svg)](https://vitejs.dev/)
+[![Cursor](https://img.shields.io/badge/Built%20with-Cursor%20AI-red.svg)](https://cursor.sh/)
+[![Claude](https://img.shields.io/badge/AI-Claude%203.5%20Sonnet-blueviolet.svg)](https://anthropic.com/)
+
 > 🤖 This project demonstrates the power of AI-assisted development using Cursor AI with Claude-3.5-Sonnet integration. From project setup to code generation, the entire development process was streamlined through intelligent AI pair programming.
 
 A modern implementation of the classic Tic Tac Toe game built with React and Vite, showcasing how AI can help create clean, maintainable, and feature-rich applications.
+
+## 📸 Screenshots
+
+![Game Start](https://raw.githubusercontent.com/qaz74107410/tic-tac-toe-react-showcase-ai/main/screenshots/game-start.png)
+*Initial game board with clean, modern UI*
+
+![Gameplay](https://raw.githubusercontent.com/qaz74107410/tic-tac-toe-react-showcase-ai/main/screenshots/gameplay.png)
+*Game in progress showing X and O moves*
+
+![Winner](https://raw.githubusercontent.com/qaz74107410/tic-tac-toe-react-showcase-ai/main/screenshots/winner.png)
+*Winning state with highlighted message*
 
 ## AI-Powered Development Highlights
 
